@@ -1,11 +1,15 @@
 # INSTALLATION
 ``
-git clone https://github.com/LeeTheSiwoo
+git clone https://github.com/LeeTheSiwoo/Try.git
+``
+
 ``
 cd Try
-```
+``
+
+``
 python siwoo.py
-```
+``
 
 #USE
 ``
