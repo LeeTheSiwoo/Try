@@ -1,4 +1,9 @@
 # INSTALLATION
+
+'''
+termux-setup-storage
+'''
+
 ```
 git clone https://github.com/LeeTheSiwoo/Try.git
 ```
